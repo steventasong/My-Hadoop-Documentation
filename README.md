@@ -1,2 +1,2 @@
 # My-Hadoop-Documentation
-This documents how i learn each of the Hadoop components / installation / examples
+This documents how I learn each of the Hadoop components / installation / examples
